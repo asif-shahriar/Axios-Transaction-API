@@ -1,0 +1,22 @@
+{
+  "name": "axios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "node mochawesome.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "chai": "^4.3.6",
+    "faker": "^5.4.0",
+    "fs": "^0.0.1-security",
+    "mocha": "^9.2.1",
+    "mochawesome": "^7.1.0",
+    "shelljs": "^0.8.5"
+  }
+}
